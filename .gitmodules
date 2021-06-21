@@ -1,0 +1,6 @@
+[submodule "private"]
+	path = private
+	url = https://github.com/riyapatel13/private.git
+[submodule "private-repo"]
+	path = private-repo
+	url = https://github.com/riyapatel13/private-repo.git
